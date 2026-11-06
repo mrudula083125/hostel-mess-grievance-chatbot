@@ -1,0 +1,11 @@
+topic,question,answer,department
+Hostel maintenance,How do I report a broken fan or light?,"Submit a maintenance grievance with your block, room number, and a short description. The hostel maintenance team should review it.",Hostel Maintenance
+Drinking water,What should I do if drinking water is unavailable?,"Report the location and time when water was unavailable. For an urgent supply issue, inform the hostel warden as well.",Water & Sanitation
+Mess food quality,How can I complain about food quality?,"Mention the meal, date, approximate time, and issue (for example, undercooked or stale food). The grievance will be routed to the mess manager.",Mess Manager
+Mess menu,Where can I ask about the mess menu?,"Check the notice board or official campus communication channel. If the published menu is missing or incorrect, submit a mess-related grievance.",Mess Manager
+Room cleanliness,How do I report an unclean room or bathroom?,"Include your hostel block, room or bathroom location, and when the cleaning was last done. The request will be routed to housekeeping.",Housekeeping
+Wi-Fi,The hostel Wi-Fi is not working. What should I do?,"Include your hostel block, floor, device type if relevant, and the time the connection failed. The request will be routed to IT support.",IT Support
+Safety,Who should I contact about a safety concern?,"Contact the hostel warden or campus security immediately for urgent safety concerns. You may also log a grievance here; do not use the chatbot as an emergency service.",Hostel Warden
+Noise,How do I report repeated noise at night?,"Describe the location, approximate time, and frequency. The grievance will be routed to the hostel warden for review.",Hostel Warden
+Grievance status,How can I follow up on my complaint?,"Keep your grievance ID after submitting a complaint. In this demo, the administrator can review the record in the grievance CSV file.",Hostel Warden
+General,What details should I include in a grievance?,"Include a clear description, hostel block, room or location where relevant, date/time, and the action you are requesting. Avoid sharing passwords or unnecessary sensitive personal data.",Hostel Warden
